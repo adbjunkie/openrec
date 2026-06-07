@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#1B5E4B</color>
+    <color name="primary_dark">#0F3D31</color>
+    <color name="on_primary">#FFFFFF</color>
+    <color name="background">#F4F7F5</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="text_primary">#1A1F1C</color>
+    <color name="text_secondary">#5C6761</color>
+    <color name="recording_red">#D64545</color>
+    <color name="idle_green">#3D9B6A</color>
+</resources>

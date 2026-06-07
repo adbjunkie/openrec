@@ -1,0 +1,7 @@
+Initial F-Droid release:
+- Background video recording with CameraX
+- Local MP4 storage
+- Optional audio and camera selection
+- Discrete launcher icons
+- Minimal notification mode
+- No tracking or network access

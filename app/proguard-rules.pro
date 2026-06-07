@@ -1,0 +1,1 @@
+# No third-party SDKs — nothing to keep.

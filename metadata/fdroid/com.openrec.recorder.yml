@@ -1,0 +1,37 @@
+Categories:
+  - Multimedia
+  - Security
+License: MIT
+AuthorName: adbjunkie
+WebSite: https://github.com/adbjunkie/openrec
+SourceCode: https://github.com/adbjunkie/openrec
+IssueTracker: https://github.com/adbjunkie/openrec/issues
+Changelog: https://github.com/adbjunkie/openrec/blob/main/fastlane/metadata/android/en-US/changelogs/
+Donate: https://buymeacoffee.com/theaiinstructor
+
+AutoName: OpenRec
+Description: |-
+  OpenRec is a minimal, open-source background video recorder.
+
+  Privacy first: no analytics, no network, no cloud. Videos stay on your device.
+
+  Record in the background with front or back camera and optional audio. Change the
+  launcher icon for discretion and use minimal notification mode where Android allows.
+
+  You are responsible for complying with local recording consent laws.
+
+RepoType: git
+Repo: REPO_URL
+
+Builds:
+  - versionName: '1.0.0'
+    versionCode: 1
+    commit: 1.0.0
+    subdir: .
+    gradle:
+      - yes
+
+AutoUpdateMode: Version
+UpdateCheckMode: Tags
+CurrentVersion: 1.0.0
+CurrentVersionCode: 1

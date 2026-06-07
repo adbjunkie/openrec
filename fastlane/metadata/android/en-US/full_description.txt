@@ -1,0 +1,25 @@
+OpenRec is a minimal, open-source background video recorder.
+
+<b>Privacy first</b>
+• No analytics, ads, or tracking
+• No network access
+• No cloud upload
+• Videos stay on your device
+
+<b>Recording</b>
+• Record video while using other apps or with the screen off
+• Front or back camera
+• Optional audio
+• Share or delete recordings from the app
+
+<b>Stealth options</b>
+• Change launcher icon and name (Calculator, Notes, Weather, Clock)
+• Minimal notification mode (as discreet as Android allows)
+
+<b>Transparency</b>
+Android requires a persistent notification while the camera records in the background. OpenRec cannot fully hide this on modern Android, but minimal mode makes it as small and silent as possible.
+
+<b>Legal</b>
+You are responsible for complying with local recording consent laws.
+
+License: MIT
