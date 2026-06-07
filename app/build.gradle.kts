@@ -22,8 +22,6 @@ android {
                 getDefaultProguardFile("proguard-android-optimize.txt"),
                 "proguard-rules.pro"
             )
-            // F-Droid and local release builds sign the APK separately.
-            signingConfig = signingConfigs.getByName("debug")
         }
     }
 
