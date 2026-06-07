@@ -21,7 +21,7 @@ Description: |-
   You are responsible for complying with local recording consent laws.
 
 RepoType: git
-Repo: REPO_URL
+Repo: https://github.com/adbjunkie/openrec
 
 Builds:
   - versionName: '1.0.0'
