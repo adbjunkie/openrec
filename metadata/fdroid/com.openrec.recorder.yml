@@ -6,7 +6,8 @@ AuthorName: adbjunkie
 WebSite: https://github.com/adbjunkie/openrec
 SourceCode: https://github.com/adbjunkie/openrec
 IssueTracker: https://github.com/adbjunkie/openrec/issues
-Changelog: https://github.com/adbjunkie/openrec/blob/main/fastlane/metadata/android/en-US/changelogs/
+Changelog:
+  https://github.com/adbjunkie/openrec/blob/main/fastlane/metadata/android/en-US/changelogs/
 Donate: https://buymeacoffee.com/theaiinstructor
 
 AutoName: OpenRec
@@ -24,7 +25,7 @@ RepoType: git
 Repo: https://github.com/adbjunkie/openrec
 
 Builds:
-  - versionName: '1.0.0'
+  - versionName: 1.0.0
     versionCode: 1
     commit: 1.0.0
     gradle:
