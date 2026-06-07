@@ -30,8 +30,7 @@ Builds:
     commit: 1.0.0
     gradle:
       - yes
-    output:
-      - app/build/outputs/apk/release/*.apk
+    output: "['app/build/outputs/apk/release/*.apk']"
 
 AutoUpdateMode: Version
 UpdateCheckMode: Tags
